@@ -13,5 +13,6 @@ public class Main {
 	private static void DisplayGreetings()
 	{
 		System.out.println("Hello people");
+		System.out.println("New change");
 	}
 }
